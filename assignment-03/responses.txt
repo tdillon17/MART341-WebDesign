@@ -1,4 +1,0 @@
-https://www.tumblr.com/, https://www.reddit.com/, https://www.google.com/
-The DNS translates the domain name to a specific IP address.
-A cookie is data that a website saves to remember the user.
-Three essential parts of a URL is protocol, domain name, and path.
