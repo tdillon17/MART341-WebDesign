@@ -8,9 +8,6 @@ body {
   background: limegreen;
   border: 3px solid #ff6700;
 }
-color-text{
-  color: #ffffff
-}
 
 h1{
   color: yellow;
@@ -23,4 +20,4 @@ h2{
 p{
   text-color: yellow;
   font-size: 15px;
-} 
+}

@@ -9,5 +9,7 @@ old Nickelodeon nostalgia feel.
 3. The difficulty I had this week is the  same as last week. I spent two
 days trying to get the link to my style to work. I watched the overview video four
 times, I looked at forums and none of the solutions worked for me. I looked
-at the course site so many times, tried to get answers on discord, I even tried
-the practice sites. I just don't understand.
+at the course site so many times, tried to get answers on discord, I watched
+youtube videos I even tried the practice sites a lot. Eventually I received help
+and I needed to add a period before my forward slash. I hate how simple that
+solution was.
