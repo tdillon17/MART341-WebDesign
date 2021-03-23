@@ -1,0 +1,26 @@
+body {
+  background-color: lightcyan;
+  text-align: center;
+  padding: 10px;
+  border: 5px dotted #ff6700;
+}
+.main-container {
+  background: limegreen;
+  border: 3px solid #ff6700;
+}
+color-text{
+  color: #ffffff
+}
+
+h1{
+  color: yellow;
+  font-size: 40px;
+}
+h2{
+  color: yellow;
+  font-size: 25px;
+}
+p{
+  text-color: yellow;
+  font-size: 15px;
+} 
