@@ -1,0 +1,12 @@
+body {
+  background-color: gray;
+  text-align: center;
+  padding: 10px;
+  border: 5px dashed #660000;
+}
+.a:link{
+  Color: #660000
+}
+.press:hover{
+  Color: #FFFFFF
+}
