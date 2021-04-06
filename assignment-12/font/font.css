@@ -1,0 +1,40 @@
+div{
+  text-align: left;
+  line-height:1.45em;
+  font-family: 'halant' , 'neuton', sans-serif;
+}
+h1, h3, h5{
+  text-align: center;
+  font font-family: 'nunito-sans','nunito', sans-serif;
+}
+.opening-paragraph{
+  color: #000000
+  font-size: 20px;
+  font-size: 20px;
+  text-indent: 10px;
+  font-weight: 600;
+  margin: 6em;
+}
+.opening-paragraph p::first-line{
+  color: #660000
+}
+.second-paragraph{
+  font-size: 15px;
+  text-indent: 10px;
+  font-weight: 600;
+  margin: 6em
+}
+.third-paragraph{
+  font-size: 15px;
+  text-indent: 10px;
+  font-weight: 600;
+  margin: 6em
+}
+.a:link{
+  Color: #660000
+  font-family: 'nunito-sans', 'nunito', sans-serif;
+  font-family: 'nunito-sana', 'nunito', sans-serif;
+}
+.a:hover{
+  Color: #FFFFFF
+}
